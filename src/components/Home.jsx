@@ -10,10 +10,10 @@ const Home = () => {
           Balaji Murugesan
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm an Application Developer.
+          Application Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-        Dedicated and results-driven professional with experience as an Infoscion, 
+        Dedicated and results-driven professional with experience in Java Web development, 
         contributing to high-quality software development and implementation. 
         Proficient in software engineering practices, problem-solving, 
         and leveraging advanced technical knowledge to deliver impactful solutions.
